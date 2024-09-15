@@ -1,3 +1,5 @@
+package sprout;
+
 import java.util.Scanner;
 
 public class Solved2743 {
